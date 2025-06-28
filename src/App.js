@@ -1,9 +1,7 @@
-function App() {
+export default function App() {
   return(
-    <div>
-      
+    <div className="main">
+      abc
     </div>
   );
 }
-
-export default App
